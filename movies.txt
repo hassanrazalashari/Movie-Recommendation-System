@@ -1,0 +1,13 @@
+MovieID,MovieName,MovieWriter,UserRating,NumOfReviews,Revenue,Year,Genre
+12011,up,Disney,5.0,10000,80M,2011,art,   fiction
+22018,a wrinkle in time (time quintet),Madeleine L'Engle,4.5,5153,20M,2018,fiction
+32010,Inception,Christopher Nolan,4.5,8500,830M,2010,fiction
+42008,The Dark Knight,Christopher Nolan,4.8,10000,1000M,2008,fiction
+52004,Eternal Sunshine of the Spotless Mind,Michel Gondry,4.4,7800,72M,2004,art
+62018,Black Panther,Ryan Coogler,4.6,9200,1347M,2018,fiction
+72014,Interstellar,Christopher Nolan,4.6,9200,677M,2014,fiction
+82015,Mad Max: Fury Road,George Miller,4.6,8700,375M,2015,fiction
+92012,The Avengers,Joss Whedon,4.7,9600,1519M,2012,fiction
+102011,Harry Potter and the Deathly Hallows – Part 2,David Yates,4.7,9700,1342M,2011,fiction
+112017,Get Out,Jordan Peele,4.5,8800,255M,2017,fiction
+122019,Parasite,Bong Joon-ho,4.6,9400,266M,2019,comedy
